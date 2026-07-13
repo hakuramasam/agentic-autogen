@@ -3,4 +3,4 @@ uvicorn==0.35.0
 pydantic==2.11.7
 autogen==0.9.7
 mistralai==1.9.3
-python-dotenv==1.1.1
+python-dotenv==1.2.2
